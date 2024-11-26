@@ -1,5 +1,7 @@
-# Kataku
-Tugas Akhir PEMDAS Semester 1
+//Kataku
+//TUGAS AKHIR PEMDAS SEMESTER 1 
+//RAKAPAKSI SATRYA PUTRA
+//245150701111034
 
 import java.util.ArrayList;
 import java.util.List;
